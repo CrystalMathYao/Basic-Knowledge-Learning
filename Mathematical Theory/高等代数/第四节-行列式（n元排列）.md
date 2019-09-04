@@ -4,3 +4,7 @@
 
 ![二元一次方程组](https://github.com/CrystalMathYao/Basic-Knowledge-Learning/blob/master/Mathematical%20Theory/高等代数/图/二元一次方程组.png)
 
+简洁的记作|A|，或者det A。
+
+
+
