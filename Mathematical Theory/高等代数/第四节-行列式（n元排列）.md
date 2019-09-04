@@ -2,8 +2,6 @@
 
 为了研究这个问题，从一个二元一次方程组入手：
 
-![二元一次方程组](https://github.com/CrystalMathYao/Basic-Knowledge-Learning/blob/master/Mathematical%20Theory/高等代数/图/二元一次方程组.png)
-
 简洁的记作|A|，或者det A。
 
 
