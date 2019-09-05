@@ -12,6 +12,8 @@
 
 n个不同的自然数的一个全排列称为一个n元排列，对于给定的n个不同的自然数，它们形成的全排列有n！个。
 
+小的数在前，大的数在后，此时称这一对数构成一个顺序；大的数在前，小的数在后，此时称这一对数构成一个逆序。一个n元排列中逆序的总数称为逆序数，记作<a href="https://www.codecogs.com/eqnedit.php?latex=\tau(a_{1}&space;a_{2}\cdots&space;a_{n})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\tau(a_{1}&space;a_{2}\cdots&space;a_{n})" title="\tau(a_{1} a_{2}\cdots a_{n})" /></a>
+
 
 
 
