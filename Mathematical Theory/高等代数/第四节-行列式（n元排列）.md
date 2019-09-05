@@ -16,7 +16,11 @@ n个不同的自然数的一个全排列称为一个n元排列，对于给定的
 
 从而有，逆序数为奇数的排列称为奇排列，逆序数为偶数的排列称为偶排列。把排列2341的3和1互换位置，其余数字不动，得到新的排列2143，像这样的变换称为一个对换，记作(3,1)。
 
-定理1 对换改变n元排列的奇偶性
+定理1   对换改变n元排列的奇偶性。
+
+![对换奇偶性证明1](https://github.com/CrystalMathYao/Basic-Knowledge-Learning/blob/master/Mathematical%20Theory/高等代数/图/对换奇偶性证明1.png)
+
+![对换奇偶性证明2](https://github.com/CrystalMathYao/Basic-Knowledge-Learning/blob/master/Mathematical%20Theory/高等代数/图/对换奇偶性证明2.png)
 
 
 
