@@ -22,5 +22,7 @@ n个不同的自然数的一个全排列称为一个n元排列，对于给定的
 
 ![对换奇偶性证明2](https://github.com/CrystalMathYao/Basic-Knowledge-Learning/blob/master/Mathematical%20Theory/高等代数/图/对换奇偶性证明2.png)
 
+定理2   任一n元排列与排列123...n可以经过一系列对换互变，并且所作对换的次数与这个n元排列具有相同的奇偶性。
+
 
 
