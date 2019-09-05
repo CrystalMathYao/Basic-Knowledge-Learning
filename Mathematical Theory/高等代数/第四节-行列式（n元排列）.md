@@ -14,7 +14,7 @@ n个不同的自然数的一个全排列称为一个n元排列，对于给定的
 
 小的数在前，大的数在后，此时称这一对数构成一个顺序；大的数在前，小的数在后，此时称这一对数构成一个逆序。一个n元排列中逆序的总数称为逆序数，记作<a href="https://www.codecogs.com/eqnedit.php?latex=\tau(a_{1}&space;a_{2}\cdots&space;a_{n})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\tau(a_{1}&space;a_{2}\cdots&space;a_{n})" title="\tau(a_{1} a_{2}\cdots a_{n})" /></a>
 
-
+从而有，逆序数为奇数的排列称为奇排列，逆序数为偶数的排列称为偶排列。把排列2341的3和1互换位置，其余数字不动，得到新的排列2143，像这样的变换称为一个对换，记作(3,1)。
 
 
 
