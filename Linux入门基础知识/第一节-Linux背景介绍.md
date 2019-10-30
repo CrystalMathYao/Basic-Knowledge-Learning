@@ -18,4 +18,4 @@ Linux系统下文件目录结构
 
 在Linux下，看不到驱动器盘符，只能看到各种文件夹（目录），例如ubuntu没有盘符的概念，只有一个根目录\，所有的文件都在它下面。
 
-![Linux文件目录结构](https://github.com/CrystalMathYao/Basic-Knowledge-Learning/blob/master/Mathematical%20Theory/高等代数/图/对换奇偶性证明1.png)
+![Linux文件目录结构](https://github.com/CrystalMathYao/Basic-Knowledge-Learning/blob/master/Linux入门基础知识/Figure/文件目录结构.png)
