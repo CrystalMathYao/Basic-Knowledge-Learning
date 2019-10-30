@@ -15,3 +15,5 @@ Linux刚面世的时候并没有图形界面，所有的操作全靠命令完成
 4.Linux终端命令格式
 
 command [-options] [parameter]
+
+command表示命令名；[-options]表示选项，可用来对命令进行控制，也可以省略；[parameter]表示传给命令的参数，可以是零个、一个或者多个
