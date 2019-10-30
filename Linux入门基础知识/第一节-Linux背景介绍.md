@@ -16,7 +16,20 @@ Linux发行版（也被叫做GNU/Linux发行版）通常包含了包括桌面环
 
 Linux系统下文件目录结构
 
-在Linux下，看不到驱动器盘符，只能看到各种文件夹（目录），例如ubuntu没有盘符的概念，只有一个根目录\，所有的文件都在它下面。
+在Linux下，看不到驱动器盘符，只能看到各种文件夹（目录），例如ubuntu没有盘符的概念，只有一个根目录/，所有的文件都在它下面。
 
 ![Linux文件目录结构](https://github.com/CrystalMathYao/Basic-Knowledge-Learning/blob/master/Linux入门基础知识/Figure/文件目录结构.png)
 
+Linux主要目录
+
+/:根目录，一般根目录下只存放目录，并且Linux下有且只有一个根目录，所有东西从这里开始
+
+/bin、/usr/bin：可执行二进制文件的目录，如常用的命令ls、tar、mv、cat等
+
+/boot：放置Linux系统启动时用到的一些文件，如Linux的内核文件/vmlinuz，系统引导管理器/grub
+
+/dev：系统配置文件存放的目录，不建议在此目录下存放可执行文件夹
+
+/home：系统默认的用户家目录，新增用户账号时，用户的家目录都存放在此目录下
+
+/lib、/usr/lib：系统使用的函数库的目录，程序在执行过程中，需要调用一些额外的参数时需要函数库的协助
