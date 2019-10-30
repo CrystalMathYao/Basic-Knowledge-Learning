@@ -31,3 +31,4 @@ command --help
 man command
 
 查阅command命令的使用手册，man是manual的缩写，是Linux提供的一个手册，包含了绝大部分的命令、函数的详细使用说明
+
